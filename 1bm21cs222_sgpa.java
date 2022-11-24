@@ -77,7 +77,7 @@ class student
 			} 
 			
 		}
-		gpa=p/20;
+		gpa=p/sum;
 		return(gpa);
 	}
 }
